@@ -29,7 +29,7 @@ html,body{font-size: 62.5%;}
 .my-bullet-active{background: #ff612c;opacity: 1;}
 
 .swiper-containe{position: relative;overflow: hidden;}
-.swiper-pagination{position: absolute;top: 85%;}
+.swiper-pagination{position: absolute;top: 87%;}
 
 .DHL{background: #fff;position: fixed;bottom: 0;width: 100%;height: 10%;}
 .DHL ul li{list-style: none;float: left;width: 25%;text-align: center;margin: 2.5% 0;font-size: 1.2rem;}
