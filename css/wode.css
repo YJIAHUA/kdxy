@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;}
+body{margin-bottom: 10%;}
+ html,body {font-size: 62.5%;}
+ 
+.top{margin:5% 5% 5% 2%;display: flex;align-items: center;}
+.top ul{float: left;margin: 5%;}
+.top ul li{list-style: none;}
+.top ul li:first-child{font-size: 3rem;margin-bottom: 5%;}
+.top ul li:last-child{font-size: 1.5rem;margin-bottom: 5%;}
+.top img{margin-left: auto;width: 20%;}
+
+.ka{clear: both;border-top:solid 1px #eee;padding: 5% 0;}
+.ka ul li{list-style: none;float: left;width: 25%;text-align: center;margin: 2.5% 0;font-size: 1.2rem;}
+.ka ul li span{content: "";clear: both;display: block;color: #9c9c9c;}
+
+.xian{border-top:solid 1px #eee;clear: both;}
+.hang{margin:5% auto;width: 90%;}
+.hang ul{font-size: 2.2rem;}
+.hang ul li{list-style: none;display: flex;align-items: center;}
+.hang ul li img{margin-right: 8%;width: 6.5%;}
+.hang ul li span{margin-left: auto;}
+
+
+.DHL{background: #fff;position: fixed;bottom: 0;width: 100%;height: 10%;}
+.DHL ul li{list-style: none;float: left;width: 25%;text-align: center;margin: 2.5% 0;font-size: 1.2rem;}
+.DHL ul li span{content: "";clear: both;display: block;color: #9c9c9c;}

@@ -1,0 +1,32 @@
+*{margin: 0;padding: 0;}
+html,body{font-size: 62.5%;}
+.fx{font-size: 2.5rem;margin: 5%;}
+.ss {background: #eee;border-radius: 15px;color: #aaa;width: 90%;display: flex;align-items: center;margin: 0 auto;padding: 2%;font-size: 1.6rem;text-align: center;}
+.ss img{margin-right: 25%;width: 6%;}
+.xy{clear: both;padding-top: 5%;}
+.xy span:first-child{margin-left: 5%;font-size: 2rem;font-weight: bold;}
+.xy span:last-child{position: absolute;right: 5%;font-size: 1.5rem;}
+
+.wdxy{margin: 3% 0;}
+.wdxy ul{margin: 0;padding: 0;list-style: none;text-align: center;}
+.wdxy ul li{float: left;width: 25%;}
+.wdxy ul li:last-child a img{width: 75%;}
+
+.rmht{clear: both;padding-top: 2%;}
+.rmht span:first-child{margin-left: 5%;font-size: 2rem;font-weight: bold;}
+.rmht span:last-child{position: absolute;right: 5%;font-size: 1.5rem;}
+
+.htzp{text-align: center;padding-top: 5%;}
+.htzp img{width: 85%;}
+
+.qz{margin: 0 auto;padding-bottom: 30%;width: 90%;}
+.qz span{font-size: 1.8rem;font-weight: bold;margin-left: 1.5%;}
+.qz .qz1{list-style: none;}
+.qz .qz2{list-style: none;clear: both;}
+.qz .qz1 li{float: left;padding: 3% 3.5%;background: #eee;margin: 2%;border-radius: 10px;color: rgb(155, 155, 155);}
+.qz .qz2 li{float: left;padding: 3% 3.5%;background: #eee;margin:0 2%;border-radius: 10px;color: rgb(155, 155, 155);}
+.qz .qz2 li:first-child{background: rgb(255,116,137);color: #fff;}
+
+.DHL{background: #fff;position: fixed;bottom: 0;width: 100%;height: 10%;}
+.DHL ul li{list-style: none;float: left;width: 25%;text-align: center;margin: 2.5% 0;font-size: 1.2rem;}
+.DHL ul li span{content: "";clear: both;display: block;color: #9c9c9c;}

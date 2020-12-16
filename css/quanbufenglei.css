@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+html,body{font-size: 62.5%;width: 100%;height: 100%;}
+.xian{border-bottom:1px solid #eeeeee;}
+.qbfl{margin: 5% 5%;text-align: center;}
+.qbfl a{font-size: 2.5rem;text-decoration: none;color: black;float: left;line-height: 2rem;}
+.qbfl span{font-size: 2rem;}
+.baoze{text-align: center;}
+.youbian{float: left;width: 80%;}
+.youbian .xq{text-align: center;}
+.youbian .xq img{width: 90%;}
+
+.zuobian{background: #eeeeee;list-style: none;width: 20%;text-align: center;float: left;height: 100%;}
+.zuobian ul li{margin: 2.8rem 0;font-size: 2rem;}
+.zuobian ul li:first-child{color: #ff743f;border-left: 2px solid #ff743f;background: #fff;line-height: 5.6rem;margin: 0 auto;}
+.youbian .xqk span{border: solid 1px #d3d3d3;border-radius: 8px;display: block;width: 7.5rem;height: 3rem;line-height: 3rem;}
+.youbian .xqk{margin: 3% auto;display: flex;justify-content: space-between;width: 90%;}

@@ -1,0 +1,25 @@
+html,body {font-size: 62.5%;}
+.top {margin: 5% auto 0;display: flex;align-items: center;width: 95%;}
+.top a {text-decoration: none;font-size: 2.5rem;color: black;}
+.top img {width: 6%;margin-left: auto;}
+span {font-size: 2.5rem;margin: 5%;line-height: 220%;}
+
+.ss {display: flex;align-items: center;width: 95%;margin: 0 auto;}
+.ss .zoubian {background: #eee;border-radius: 15px;color: #aaa;width: 70%;display: flex;align-items: center;padding: 1% 0;}
+.ss .zoubian img {width: 8%;margin-left: 6%;}
+.ss .zoubian span {font-size: 1.2rem;margin-top: 0;margin-bottom: 0;}
+.ss .youbian {font-size: 1.6rem;margin-left: auto;display: flex;align-items: center;padding-right: 0;}
+.ss .youbian img {width: 30%;}
+
+.bb {clear: both;display: flex;align-items: center;width: 95%;margin: 0 auto;}
+.bb .dz {flex: 1;margin-left: -4%;}
+.bb .dz ul {margin-top: 50%;padding: 0;}
+.bb .dz ul li {list-style: none;text-align: center;font-size: 1rem;}
+.bb .dz ul li span {content: "";clear: both;display: block;color: #9c9c9c;font-size: 1.5rem;}
+.bb .dz ul li:first-child span {color: #ff743f;font-size: 1.5rem;}
+.bb .dz ul li:first-child img {width: 60%;}
+.bb .dz ul li:last-child img {width: 40%;}
+
+.bbxq {background: #ffb366;padding: 6% 12%;border-radius: 15px;float: right;margin-top: 5%;flex: 4;}
+.bbxq ul,li {padding: 0;margin: 0;color: #fff;font-size: 1.6rem;}
+.bbxq ul {list-style: none;overflow: hidden;position: relative;}
